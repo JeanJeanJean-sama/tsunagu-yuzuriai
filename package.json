@@ -1,0 +1,14 @@
+{
+  "name": "tsunagu-yuzuriai",
+  "version": "0.1.0",
+  "private": true,
+  "description": "障害児の親の会「つなぐ」向け 医療ケア用品・装具のゆずりあいサイト（試作版）",
+  "type": "module",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node --test tests/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

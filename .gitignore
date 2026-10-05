@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+# 試作版で書き出したデータ（本物の情報が入る可能性があるため）
+tsunagu-data-*.json
